@@ -1,1 +1,1 @@
-this i s a new proyect
+this is a new proyect for the website
